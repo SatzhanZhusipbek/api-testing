@@ -41,11 +41,3 @@ mvn test
 
 ---
 
-## 📜 **Technologies Used**
-- **Java 11**
-- **JUnit 5** (Test Framework)
-- **REST Assured** (API Testing)
-- **Maven** (Build Tool)
-- **Gson** (JSON Parsing)
-
----
